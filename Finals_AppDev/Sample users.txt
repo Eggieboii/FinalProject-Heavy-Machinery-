@@ -1,0 +1,8 @@
+sampleuser@gmail.com
+password1
+
+sampleuser2@gmail.com
+password2
+
+sampleuser3@gmail.com
+password3
